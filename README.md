@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Yojen Grover and I'm a Software Developer | AI Enthusiast | Recent Master's in CS at UMass Lowell.</h2>
+<h2 align="left">Hi 👋!</h2> 
+
+###
+
+<h2 align="left"> My name is Yojen Grover and I'm a Software Developer | AI Enthusiast | Recent Master's in CS at UMass Lowell.</h2>
 
 ###
 
